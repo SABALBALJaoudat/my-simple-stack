@@ -1,0 +1,12 @@
+# Ignoring files by extension
+# All files with these extensions will be ignored in
+# this directory and all its sub-directories.
+*.class
+*.iml
+
+# To ignore any directories named DirectoryA
+# in any depth use ** before DirectoryA
+# Do not forget the last /,
+# Otherwise it will ignore all files named DirectoryA, rather than directories
+**/target/
+**/.idea/

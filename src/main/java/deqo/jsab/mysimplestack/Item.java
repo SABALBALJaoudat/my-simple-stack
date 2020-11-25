@@ -2,6 +2,7 @@ package deqo.jsab.mysimplestack;
 
 public class Item {
     int Id;
+    int result;
 
     public int getId() {
         return Id;
